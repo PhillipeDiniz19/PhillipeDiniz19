@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>Meu nome é Phillipe Diniz Cardoso. Sou um desenvolvedor web com experiência em Html, Css3 e JavaScript e atualmente estou estudando TypeScript , Jquery e começando a estudar a lógica do banco de dados.
+Hi there 👋<br>Meu nome é Phillipe Diniz Cardoso. Sou um estudante e amante da tecnologia, atualmente estou estudando JavaScript, NodeJs, MongoDB e inglês
 
 
 # 💻 Tech Stack:
