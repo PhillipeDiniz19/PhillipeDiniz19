@@ -8,6 +8,7 @@ Minhas principais tecnologias que estou estudando:
 - Além de dedicar ao inglês.
 
 Procuro nessa passagem agregara o máximo de experiência para contribuir em atividade de diferentes área.
+[![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)]
 
 
 
