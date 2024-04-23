@@ -14,7 +14,7 @@ Dedico meu tempo livre para meus estudos e assim me tornar um desenvolvedor de s
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 <br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phillipediniz19)]
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipediniz19&show_icons=true&theme=dracula&count_private=true)
 
