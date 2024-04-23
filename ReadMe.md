@@ -4,12 +4,6 @@ Cursando análise e desenvolvimento de sistemas, atuo como freelancer desenvolve
 Dedico meu tempo livre para meus estudos e assim me tornar um desenvolvedor de software. <br>
 Minhas principais tecnologias que estou estudando: 
 
-- Javascript, NodeJS, ReactJS, MongoDB, MySQL. <br>
-- Além de dedicar ao inglês.
-
-Procuro nessa passagem agregara o máximo de experiência para contribuir em atividade de diferentes área.
-## Tecnologias que eu uso no meu dia
-
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,8 +15,10 @@ Procuro nessa passagem agregara o máximo de experiência para contribuir em ati
 </div>
 <br/>
 
+
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipediniz19&show_icons=true&theme=dracula&count_private=true)
 
+Procuro nessa passagem agregara o máximo de experiência para contribuir em atividade de diferentes área.
 
 
 
