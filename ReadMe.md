@@ -2,7 +2,7 @@
 Hi there 👋<br>
 Cursando análise e desenvolvimento de sistemas, atuo como freelancer desenvolvendo sites através do wordpress.
 Dedico meu tempo livre para meus estudos e assim me tornar um desenvolvedor de software. <br>
-Minhas principais tecnologias que estou estudando: 
+# Minhas principais tecnologias que estou estudando: 
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
