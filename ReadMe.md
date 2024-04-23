@@ -8,7 +8,7 @@ Minhas principais tecnologias que estou estudando:
 - Além de dedicar ao inglês.
 
 Procuro nessa passagem agregara o máximo de experiência para contribuir em atividade de diferentes área.
-[![Blog](https://github-readme-stats.vercel.app/api/top-langs/?username={PhillipeDiniz19}&theme=blue-green)]
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=phillipediniz19&show_icons=true&theme=dracula&count_private=true)
 
 
 
